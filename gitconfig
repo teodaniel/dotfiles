@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = teodaniel14@gmail.com
+	name = daniel teo
